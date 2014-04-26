@@ -12,6 +12,7 @@ About MVVM Framework
 --------------------
 * [Ractive与Vue的比较](https://github.com/switer/switer.github.io/issues/5)
 * [vue与ripple的比较](https://github.com/switer/switer.github.io/issues/4)
+* [think of directive and filter](https://github.com/switer/switer.github.io/issues/7)
 
 Develo Principles
 --------------------
