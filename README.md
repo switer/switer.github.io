@@ -6,7 +6,7 @@ Personal homepage
 Web Component
 -------------
 * [web component](https://github.com/switer/switer.github.io/issues/6)
-* [使用component规范的组件模块划分](https://github.com/switer/switer.github.io/issues/3)
+* [web组件系统的模块定义](https://github.com/switer/switer.github.io/issues/3)
 
 About MVVM Framework
 --------------------
