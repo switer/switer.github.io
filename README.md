@@ -13,7 +13,7 @@ About MVVM Framework
 * [Ractive与Vue的比较](https://github.com/switer/switer.github.io/issues/5)
 * [vue与ripple的比较](https://github.com/switer/switer.github.io/issues/4)
 
-Developer Principles
+Develo Principles
 --------------------
 * [软件开发成功 12 法则](https://github.com/switer/switer.github.io/issues/2)
 * [抽象泄露法则](https://github.com/switer/switer.github.io/issues/1)
