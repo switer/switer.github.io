@@ -33,7 +33,10 @@ Two way to implement data-binding of mvvm
 
 
 #### dirty-checking (angular)
+* to be explored
 
+#### ES5 （）
+* use getter/setter
  
 
 ### Module pattern
