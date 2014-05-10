@@ -8,7 +8,7 @@ Web Component
 * [web component](https://github.com/switer/switer.github.io/issues/6)
 * [web组件系统的模块定义](https://github.com/switer/switer.github.io/issues/3)
 * [CSS命名空间前缀的思考](https://github.com/switer/switer.github.io/issues/9)
-
+* [CSS样式规则，单行还是多行？](https://github.com/switer/switer.github.io/issues/11)
 About MVVM Framework
 --------------------
 * [Ractive与Vue的比较](https://github.com/switer/switer.github.io/issues/5)
