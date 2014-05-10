@@ -18,7 +18,7 @@ About MVVM Framework
 * [think of directive and filter](https://github.com/switer/switer.github.io/issues/7)
 
 
-Develo Principles
+Develop Principles
 --------------------
 * [Module Pattern](https://github.com/switer/switer.github.io/issues/13)
 * [软件开发成功 12 法则](https://github.com/switer/switer.github.io/issues/2)
