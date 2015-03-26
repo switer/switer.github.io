@@ -1,7 +1,7 @@
 switer.github.io
 ================
 
-Personal homepage
+Personal homepage. [All in Issues](https://github.com/switer/switer.github.io/issues)
 
 Web Component
 -------------
